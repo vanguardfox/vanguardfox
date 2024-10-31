@@ -7,4 +7,4 @@
 - **Topics**: Flow Cytometry Automatic Gating, Stock Price Forecasting, Reddit Sentiment Analysis
 
 ## For Inquiries
-- [Email](mailto:jddenie@protonmail.com)
+- [jddenie@protonmail.com](mailto:jddenie@protonmail.com)
