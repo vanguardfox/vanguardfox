@@ -1,4 +1,4 @@
-## Graduate-level Data Scientist with focus on predictive modeling in financial, economic, and medical applications. Experienced in Python, R, SQL, and AWS apps. Undergraduate in Computer Science with extensive experience in cyber threat hunting.
+## Graduate-level Data Scientist with focus on predictive modeling in financial, economic, and medical applications. Undergraduate in Computer Science with extensive experience in cyber threat hunting. Constantly seeking insightful and impactful problems to solve! (Iterate, iterate, iterate)
 
 ## Skills
 - **Languages**: Python, R, MySQL, C, C++, Java, Go, MIPS, VHDL
