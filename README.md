@@ -7,7 +7,10 @@
 - **Languages**: Python, R, MySQL, C, C++, Java, Go, MIPS, VHDL
 - **Libraries and Frameworks**: Scikit-Learn, PyTorch, TensorFlow, yfinance, FlowCal, Pandas, Matplotlib, numpy, MITRE ATT&CK
 - **Platforms**: AWS SageMaker, Kibana, Google Colaboratory, Jupyter Lab, GitHub
-- **Topics**: Flow Cytometry Automatic Gating, Stock Price Forecasting, Reddit Sentiment Analysis
+## Topics
+- Flow Cytometry Automatic Gating
+- Stock Price Forecasting
+- Reddit Thread Sentiment Analysis
 
 ## For Inquiries
 - [jddenie@protonmail.com](mailto:jddenie@protonmail.com)
